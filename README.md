@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Hi , I'm Bidipta Saikia,<br><br>👨‍💻 A passionate developer from India 💻👨‍💻<br><br>💬 Ask me about anything related to Tech<br><br>⚡ Fun fact == Tech fact<br><br>
 
 
